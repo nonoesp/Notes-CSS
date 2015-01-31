@@ -21,7 +21,7 @@ HTML
 CSS
 ```css
 .wrap {
-	max-width: 640px
+	max-width: 640px;
 	margin: 0 auto;
 }
 ```
