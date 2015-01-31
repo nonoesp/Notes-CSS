@@ -25,3 +25,11 @@ CSS
 	margin: 0 auto;
 }
 ```
+
+## License
+
+Notes-CSS is licensed under the MIT license. (http://opensource.org/licenses/MIT)
+
+## Me
+
+I tweet at [@nonoesp](http://www.twitter.com/nonoesp) and blog at [nono.ma/says](http://nono.ma/says). I would love to hear about it if you find useful. Thanks!
