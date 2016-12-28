@@ -34,6 +34,12 @@ CSS
 }
 ```
 
+## Mac System Font
+
+```css
+font-family: -apple-system, BlinkMacSystemFont;
+```
+
 ## TODO (SCSS)
 
 
