@@ -3,6 +3,8 @@ Notes-CSS
 
 Useful notes on CSS.
 
+* [Flex Container](http://codepen.io/anon/pen/xqdYwv) (Codepen)
+
 ## Child selector
 
 `.wrapper *` Selector for every child of .wrapper
